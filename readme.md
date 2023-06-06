@@ -1,13 +1,14 @@
 # 文件树
-<pre>
+
+```
 public  
 ├── excel转换table.sh(新)  
 ├── ExcelTool  
 │   └── ExcelToTable.py(新)  
 └── ClientExcelTool  
-    ├── table转换txt&lua&Copy.sh(新)  
+    ├── table转换txt&Copy.sh(新)  
     └── CopyConfigs.sh(新)  
-</pre>
+```
 
 # 目的
 
