@@ -1,12 +1,12 @@
 # 文件树
 
-public
-├── excel转换table.sh(新)
-├── ExcelTool
-│   └── ExcelToTable.py(新)
-└── ClientExcelTool
-    ├── table转换txt&lua&Copy.sh(新)
-    └── CopyConfigs.sh(新)
+public  
+├── excel转换table.sh(新)  
+├── ExcelTool  
+│   └── ExcelToTable.py(新)  
+└── ClientExcelTool  
+    ├── table转换txt&lua&Copy.sh(新)  
+    └── CopyConfigs.sh(新)  
 
 # 目的
 
